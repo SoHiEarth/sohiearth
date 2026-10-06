@@ -1,4 +1,3 @@
-# Hi There
 ## `whoami`
 - High school student studying computer science.
 - Currently learning low-level concepts using languages such as C/C++.
